@@ -3,7 +3,7 @@
     font-size: 23px;
     width: 100%;
     margin: 0px;
-    box-shadow:5px 5px 5px rgb(37, 63, 113);
+    box-shadow:5px 5px 5px #427287;
   }
   .heading_div
   {
@@ -12,7 +12,7 @@
     background: white ; 
     border-radius: 20px; 
     color: black;
-    box-shadow:5px 5px 5px rgb(23, 89, 156);
+    box-shadow:5px 5px 5px #4e7c92;
   }
   .heading_div2
   {
@@ -35,7 +35,7 @@
     color: white;
     bottom:0;
     width: 100%;
-    background-color: rgb(10, 111, 243);
+    background-color: #61A5C2;
     line-height: 3;
     text-align: center;
   }
@@ -45,4 +45,9 @@
     border-radius: 20px;
     box-shadow: 5px 5px 5px rgb(8, 107, 173);
     margin-top: 230px;
+  }
+
+  body
+  {
+    background-size: 2000px;
   }
